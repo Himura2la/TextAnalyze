@@ -41,7 +41,6 @@ if __name__ == '__main__':
     print("POSed size: %d" % len(POSed))
 
     print("Saving...")
-
     np.save("..\\POS.npy", np.array(POSed))
     with open("..\\POS.txt", 'w') as f:
         for (w, POS), n in POSed:
