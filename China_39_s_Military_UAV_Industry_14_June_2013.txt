@@ -1,0 +1,331 @@
+U.S.-China Economic and Security Review Commission
+Staff Research Backgrounder
+
+June 13, 2013
+
+China's Military Unmanned Aerial Vehicle Industry
+
+by Kimberly Hsu
+Policy Analyst, Military & Security Affairs
+
+with Craig Murray, Senior Policy Analyst, Military & Security Affairs, Jeremy Cook, Research Intern, and Amalia Feld, Research Fellow
+
+Disclaimer: This paper is the product of professional research performed by staff of the U.S.-China Economic and Security Review Commission, and was prepared at the request of the Commission to support its deliberations. Posting of the report to the Commission's website is intended to promote greater public understanding of the issues addressed by the Commission in its ongoing assessment of U.S.-China economic relations and their implications for U.S. security, as mandated by Public Law 106-398 and Public Law 108-7. However, the public release of this document does not necessarily imply an endorsement by the Commission, any individual Commissioner, or the Commission's other professional staff, of the views or conclusions expressed in this staff research report.
+
+Scope Note and Acknowledgements
+
+The author limited this study on the rapidly developing Chinese UAV industry in two key ways. First, the paper focuses on UAVs designed for the PLA and other military, rather than those platforms intended chiefly for civilian and law enforcement usage. While there is some overlap between military and civilian UAV R&D, the paper concentrates on key R&D centers that produce military UAVs. Second, the paper covers only the chief aviation integrators in the UAV industry; it does not address developers of avionics and other components.
+
+The author acknowledges Mr. Dennis Blasko, Mr. Ian Easton, and Dr. Martin Andrew for their helpful comments and suggestions, which helped refine this paper's analysis and conclusions. Former Senior Policy Analyst for Military and Security Affairs Rob Sheldon also provided significant insights and contributions. Any errors, however, are solely the author's.
+
+List of Acronyms
+
+AEW	Airborne early warning
+AVIC	Aviation Industry Corporation of China
+AWACS	Airborne warning and control systems
+BUAA	Beijing University of Aeronautics and Astronautics
+CAC	Chengdu Aircraft Industry Group
+CADI	Chengdu Aircraft Design Institute/611 Aircraft Design Institute
+CASC	China Aerospace Science and Technology Corporation
+CASIC	China Aerospace Science and Industry Corporation
+EW	Electronic warfare
+GAC	Guizhou Aircraft Industry Corporation
+GPS	Global positioning system
+GSD	General Staff Department (of the PLA) HA/DR	Humanitarian assistance/disaster relief
+HALE	High altitude, long endurance (used to describe UAV capability) ISR	Intelligence, surveillance, and reconnaissance
+MALE	Medium altitude, long endurance (used to describe UAV capability) MTCR	Missile Technology Control Regime
+NRIST	Nanjing Research Institute on Simulation Technique NUAA	Nanjing University of Aeronautics and Astronautics PLA	People's Liberation Army
+R&D	Research and development
+SAC	Shenyang Aircraft Company
+SADI	Shenyang Aircraft Design Institute/601 Aircraft Design Institute
+UAV	Unmanned aerial vehicle
+UCAV	Unmanned combat aerial vehicle
+
+Key Judgments
+
+*	China's  unmanned  aerial  vehicle  (UAV)  industry  is  diversifying  and  expanding,  though  scant publicly available information on state-owned UAV producers limits a detailed understanding of the industry. The dual-use nature of the technology has led to significant crossover across academia, the People's Liberation Army (PLA), state-owned defense enterprises, and the private sector.
+*	The PLA primarily uses UAVs for intelligence, surveillance, and reconnaissance (ISR) missions and communications relay, but likely is developing and operating UAVs for electronic warfare (EW) and lethal missions as well. Furthermore, China increasingly is incorporating UAVs into non-defense missions, such as border security, maritime surveillance, and humanitarian assistance/disaster relief.
+*	Chinese  defense  firms  -  state-owned,  university-based,  and  private  -  have  publicized  the development of armed UAVs and unmanned combat aerial vehicles (UCAVs). The PLA appears to have a requirement for both types of systems, though the status of these programs is unknown.
+*	Surging domestic and international market demand for UAVs, from  both military and civilian customers, will continue to buoy growth of the Chinese industry. Chinese defense firms do not face the same export restrictions as top UAV-exporting countries, such as the United States and
+Israel. As a result, China could become a key UAV proliferator, particularly to developing countries.
+
+
+
+Introduction
+
+China's unmanned aerial vehicle (UAV) industry originated in the 1950s. Initially, China relied on foreign acquisitions and reverse-engineering for its UAV program.
+
+*	The Soviet Union supplied La-17 target drones to China until the Soviet Union ceased providing technical aid to China in 1960. China reverse engineered this platform to produce the PLA Air Force's Chang Kong-1 target drone.
+*	The PLA recovered a U.S. AQM-34 Firebee UAV in North Vietnam in the 1960s. Chinese reverse engineering yielded another early Chinese unmanned platform, the low-altitude deep- penetration Wu Zhen-5 (WZ-5).
+
+However, China has changed the nature of its UAV industry and UAV technology procurement with the emergence of a more modern and able domestic defense industrial base. Since the 1980s, China has relied largely on indigenous production and R&D, with the exception of the Harpy anti-radiation UAV acquired from Israel in the 1990s.
+
+Today, China's UAV industry is comprised of a variety of defense firms and academic research groups. The industry has swelled in the past decade due to high demand from military and civilian customers. China now is developing UAVs with increased payload capacities, longer range, and greater endurance. The industry appears to focus on developing UAVs for intelligence, surveillance, and reconnaissance
+
+(ISR) and military communications relay, but likely is developing and operating UAVs for electronic warfare (EW) and lethal missions as well. Furthermore, China's UAV industry recently has made advancements in armed UAVs and unmanned combat aerial vehicle (UCAV) development, including those with low-observable technology.
+
+This report first assesses the People's Liberation Army's (PLA) employment of UAVs. It then details the development  and  diversification  of  China's  UAV  industry  and  concludes  with  an  outlook  for  the industry's production, technological advancements, and entry into the global market.
+
+There is no widely accepted classification system for unmanned aerial systems. For the purposes of this study, UAVs are distilled into three broad categories: mini, tactical, and strategic, as described in Figure
+1. This categorization necessarily borrows from characteristics of U.S. UAVs, due to limited insight into
+Chinese UAV capabilities.
+
+Figure 1: Three Major Categories of UAVs
+
+
+Source: U.S. Government Accountability Office, Nonproliferation: Agencies Could Improve Information Sharing and End-Use Monitoring on
+Unmanned Aerial Vehicle Exports (Washington, DC: July 2012), p. 4.  http://www.gao.gov/products/GAO-12-536.
+
+
+PLA UAV Employment
+
+The PLA currently employs UAVs in a wide range of missions, though the extent to which it does so and its level of overall proficiency and integration are unclear. According to official press, the PLA has incorporated UAVs into large-scale, multi-force training exercises over the last several years.  The PLA's focus  appears  to  be on  employing UAVs  for  ISR  and  for  communications  relay,  in which forward- deployed UAVs pass information to command and control units (land-, sea-, or air-based). When fully integrated into the force structure, these UAVs will improve the PLA's ability to assess U.S. and Taiwan military force posture and intent and to employ long-range weapons systems.
+
+*	Long-range UAVs could conduct long-duration ISR at extended distances from the Chinese mainland and enable over-the-horizon targeting by PLA Navy long-range anti-ship cruise
+
+missiles and Second Artillery DF-21D anti-ship ballistic missiles. In particular, they could be useful for detecting, locating, tracking, and targeting high-value fixed and mobile targets - such as U.S. Navy ships - throughout the Western Pacific.
+*	Shorter-range UAVs could perform ISR on fixed and mobile targets on Taiwan and in the Taiwan Strait. Depending on their basing and range, some of these UAVs also may conduct ISR on ships at-sea in portions of the East and South China Seas.
+*	China's UAV industry is developing medium altitude, long endurance (MALE) UAVs and high altitude, long endurance (HALE) UAVs. When operational, these advanced UAVs could conduct persistent broad-area surveillance capabilities at extended ranges and early- warning during wartime.
+
+The PLA probably is developing and operating UAVs for electronic warfare (EW). As they become operational, these UAVs likely will deploy to PLA ground units that have a dedicated EW mission, which the PLA refers to as Electronic Countermeasure units. EW UAVs probably would focus on jamming tactical communications and global positioning system (GPS), but could provide a range of other capabilities, including false target generation against enemy Airborne Warning and Control Systems (AWACS)/Airborne Early Warning (AEW) and power grid attack.
+
+Several  state-owned  defense  firms  are  also  developing  UCAV  prototypes,  designed  specifically  for combat missions. It is not clear if China intends to use UCAVs in an air-to-air or an air-to-ground role.
+
+Finally,  China  has  also  been  developing  UAVs  for  non-defense  roles,  including  law  enforcement, maritime surveillance, and remote sensing for agriculture and humanitarian assistance/disaster relief (HA/DR).
+
+*	The PLA already has used UAVs in earthquake relief efforts, demonstrating their utility in HA/DR.
+After the May 2008 and April 2013 earthquakes in Sichuan province, remote sensing data from UAVs provided rescue workers with an understanding of the extent of damage, helping to direct rescue workers and supplies more efficiently.
+*	Maritime law enforcement agencies are integrating UAVs into their operations. In late 2012, official Chinese press highlighted the State Oceanic Administration's plan to build land-based infrastructure to support the increased usage of UAVs for maritime surveillance via remote sensing. While the State Oceanic Administration is a maritime law enforcement body, not a military organization, this plan is indicative of a fast-growing area for Chinese UAV employment in the maritime realm - both military and civilian.
+
+Industry Overview
+
+Publicly available information suggests China has relied upon a few key firms to satisfy its growing UAV requirements over the past few decades. Because methodologies used to determine the PLA's total number of operational UAVs and timelines for UAV development vary across the sources, Figure 2 below provides only a broad outline of China's key operational UAVs and their developers/manufacturers.
+
+
+Figure 2: China's Key Operational UAVs by Function9
+
+FunctionDeveloper/ ManufacturerDesignatorEst. Date
+in ServiceTarget Drones. Used for target trainingTarget drone, air
+sampling for nuclear
+testsNanjing University of Aeronautics and
+Astronautics (based on Soviet La-17)Chang Kong-1Late
+1970sTarget drone, cruise
+missile simulationNanjing Research Institute on Simulation
+Technique/PLA General Staff Department
+(GSD) 60th InstituteTian Jian 1~2005Target drone,
+multipurposeNorthwestern Polytechnic University
+(precursor to Xi'an ASN Technology
+Group)Ba-2Early
+1970sTarget drone, naval anti-
+aircraft artilleryXi'an ASN Technology GroupBa-9?MINI: Micro, Mini, and Short-Range. Ranges from handheld platforms with a range of less than 10
+km to those with a range of approximately 70 kmMicro and mini models
+for reconnaissanceBeijing Wisewell Avionics Science and
+Technology CompanyAW seriesMid-
+2000sShort-range rotary wing
+reconnaissance, communication relayNanjing Research Institute on Simulation
+Technique/PLA GSD 60th InstituteZ series, (I-Z, Z-
+2, Z-3, Z-5)Early
+2000sShort- and medium-
+range reconnaissanceNanjing Research Institute on Simulation
+Technique/PLA GSD 60th InstituteW/PW series
+(W-30, W-50, PW-1, PW-2)?TACTICAL: Medium-Range. Approximate max range 150 km-200 kmMedium-range, real-time
+reconnaissanceXi'an ASN Technology GroupASN 104/105Late
+1980sMedium-range multiroleXi'an ASN Technology GroupASN 206Mid-
+1990sMedium-range
+endurance multiroleXi'an ASN Technology GroupASN 207Early
+2000sMedium-range, naval useXi'an ASN Technology GroupASN 209~2011TACTICAL: Medium-Range, antiradiation. Targets ground-based radar, approximate max range 500
+kmAntiradiation destruction
+of ground-based radarIsrael-exported: Israel Aerospace
+IndustriesHarpyEarly
+2000sSTRATEGIC: Low-altitude deep penetration. Max range 2500 km, max endurance 3 hours for
+reconnaissance missionsLow-altitude deep-
+penetration reconnaissanceBeijing University of Aeronautics and
+Astronautics (based on U.S. Firebee)WZ-5
+(exported as
+CH-1)~1981STRATEGIC: Medium-altitude long-endurance. Reported max range 2400, max endurance 40 hours
+for reconnaissance and other missionsMedium-altitude long-
+endurance multiroleBeijing University of Aeronautics and
+AstronauticsBZK-005Mid- to
+late 2000s
+
+China's UAV research and development (R&D) efforts cut across various sectors, including the PLA, the state-owned defense industrial base, academia, and the private sector. University-based programs have long served as the backbone for UAV development in China and programs with university affiliations are among the most established.    There is a significant amount of information on these programs in open source and scientific publications. This information appears to be reliable, though at times may be overstated to encourage sales or investments. Public information on PLA and state-owned industry R&D is relatively limited due to the more restrictive nature of military research. Nevertheless, some information can be gleaned from Internet photos or industry conferences. This information is unofficial and often lacks context, so its reliability is less certain. Incomplete data on China's UAV industry also limits  insight  into  the  market  forces  that  drive  production,  making  it  unclear  whether  firms  are motivated to specialize to distinguish themselves in a competitive market.
+
+The biennial China International Aviation and Aerospace Exhibition, known informally as Airshow China, has become the primary showcase for Chinese UAV industry developments since its inaugural show in
+1996. This airshow, hosted in Zhuhai, bills itself as the only event of its type with Chinese central government endorsement.  As a result, information that comes to light at Airshow China could be considered authoritative but also often lacks details related to timelines for development, PLA employment, and potential international buyers.
+
+Key R&D Centers with University Affiliations
+
+
+Beijing University of Aeronautics and Astronautics
+
+The Beijing University of Aeronautics and Astronautics (BUAA) is considered to be China's leading aeronautical university.  One  of  its oldest research departments, the Department of Aircraft Design, has historically been central to the development of UAVs. The
+department receives some
+
+
+
+
+Figure 3: BZK-005 UAV
+
+funding	from	the	863
+Program - China's Ministry
+
+This unofficial photo reportedly shows two BZK-005s on a PLA airstrip (one partial view on the left
+of  the  photo).  Source:  David  Axe,  "Where  Are  China's  Drones?"  Wired,  February  8,  2011.
+http://www.wired.com/dangerroom/2011/02/where-are-chinas-killer-drones/.
+
+of Science and Technology project dedicated to advancing R&D in marketable technologies. BUAA continues to display platforms in development at the biennial Airshow China in Zhuhai; its research specialties include fixed-wing aircraft, rotary-wing aircraft, UAV prototypes, stealth-integrated design, missiles, rockets, and hypersonic flight vehicles.15
+
+One of the university's most impressive accomplishments, the BZK-005, is in service with the PLA.16
+Initial hints of the BZK-005 surfaced in an Aviation Industry Corporation of China (AVIC) promotional video at the 2006 Airshow China. BUAA began developing the BZK-005 as early as 2005 in conjunction with the Hongdu Aviation Industry Group. By late 2009, Internet photos showed the UAV on a tarmac. A multirole MALE UAV, the BZK-005 can climb to an altitude of 8,000 meters for a maximum endurance of
+40 hours - altitudes and ranges similar to those of the U.S. MQ-1 Predator UAV. The BZK-005's primary mission appears to be ISR. The BZK-005 probably has electro-optical, infrared, synthetic aperture radar, and signals intelligence sensors and is equipped with satellite communications systems, allowing for real-time data transmission capability.17 There are no indications that China plans to equip this UAV with weapons, but a UAV of this size and payload capacity probably could be modified for that role.
+
+Nanjing University for Aeronautics and Astronautics
+
+Nanjing University for Aeronautics and Astronautics (NUAA) is home to the College of Automation Engineering and the UAV Research Institute, two key UAV R&D centers in China. Like its Beijing-based counterpart, NUAA receives financial support from a variety of state funds, such as the 863 Program and the 973 Program, a separate program that supports multi-disciplinary projects in "cutting-edge" technology.    NUAA   has   specialized   in   tactical-level   UAV   development   since   the   university's establishment in the 1950s and claims to have created China's first rotary-wing UAV and China's first high-altitude unmanned vehicle. 
+
+The  university's  UAV  research  efforts  are  perhaps  best  known  for  developing  the  Chang  Kong-1
+Completed in the late 1970s, the Chang Kong-1 measured radioactivity during nuclear tests. While details of NUAA's more recent research emphases are difficult to discern, it is clear that the university remains active in the field, based on the NUAA's development of the "Soar Bird" series of fixed-wing and rotary-wing UAVs  and  a  survey of  recent  NUAA research  papers  available on  the  China  National Knowledge Infrastructure database. 
+
+Northwest Polytechnical University - Xi'an ASN Technology Group
+
+The Xi'an ASN Technology Group is one of China's most prominent and prolific organizations focusing on domestic UAV R&D. ASN Technology is also known as the No. 365 Research Institute of the Northwest Polytechnical University of Xi'an, due to its affiliation with that university. According to the ASN Technology website, it is China's largest UAV production company and R&D base, and its primary customer is the PLA.23 The group reportedly holds around 90 percent of the domestic Chinese UAV market and has developed 40 different types of UAVs over the course of 50 years. Thus far, it has
+delivered over 1,500 UAVs to the PLA - though most of these are small, short range, and for tactical use.
+
+
+Figure 4: An ASN-207 UAV
+
+
+
+In  a  PLA  Daily  photo  from  2012,  a  UAV  completes  a  digital  mapping mission. The UAV's distinctive antenna indicates it is an ASN-207. Source: PLA  Daily,  "Drone  completes  military  mapping  mission  in  Northwest China," April 19, 2012. OSC ID: CPP2012041970200. http://www.opensource.gov.
+
+The PLA widely employs the ASN-206 and its sister platforms among tactical units. The ASN-206 can carry a variety of payloads, making it flexible for day and night missions, including ISR and communications relay. The incorporation   of   a   reliable   data   link   to ground control stations, moreover, now allows the aircraft to transmit data in real- time. After creating the platform in the late
+1990s, ASN later developed two successors: the longer-range ASN-207, with a distinctive mushroom-shaped  antenna;  and  the  ASN-
+209, in service with the PLA Navy and known
+as the "Silver Eagle." PLA press frequently highlights the participation of the ASN family of UAVs in PLA training and exercises.
+
+ASN   continues   to   showcase   new   UAV
+
+projects at Airshow China. Of note is the ASN-229A, a long-endurance prototype with a satellite-based data link and the ability to carry air-to-ground missiles. Another is the ASN-213, a 5 kilogram prototype with  the  ability  to  fold  its  wings  depending  on  its  mission  or  phase  of  flight.  The  timeline  for developing and fielding these UAVs is unknown.
+
+Defense Industry and PLA-Based R&D Centers
+
+Chengdu Aircraft Industry Group/Chengdu Aircraft Design Institute
+
+The Chengdu Aircraft Industry Group (CAC), an AVIC subsidiary, has had promising results with its work on unmanned systems. The Chengdu Aircraft Design Institute (CADI, known also as the 611 Aircraft Design Institute) is a subdivision of CAC primarily involved in advanced fighter aircraft design and research.29 As in other aviation firms, CAC and CADI are leveraging established expertise in fighter aircraft, such as the J-10 and J-20, to develop advanced unmanned systems for use in the PLA. For example, the PLA Air Force has converted several of its retired CAC-built J-7 fighters into target drones for air-to-air and surface-to-air weapons testing.
+
+In the mid-2000s, CADI reportedly began developing the Yilong/Pterodactyl 1 MALE UAV, also known as the  Wing  Loong.  This  platform  is  capable  of  reconnaissance,  surveillance,  and  meteorological operations. At the 2012 Zhuhai Airshow, the public static display of the Yilong - its first - along with several weapons also suggested an ability to conduct combat missions.  The apparent progression in China's  UCAV  development  garnered  significant  media  attention  at  the  2012  airshow,  as  did unconfirmed reports that the aircraft was operational and that export deals were underway. However, the Yilong is less notable for any innovations in design; in this regard, it closely resembles the U.S. MQ-9
+
+Reaper UAV.32 CADI sales representatives acknowledged  the  comparison  between the two platforms, citing their similar missions, but highlighted the lower operating cost of the Yilong.
+
+Guizhou Aircraft Industry Corporation
+
+The Guizhou Aircraft Industry Corporation (GAC) is another AVIC affiliate involved in UAV development. In April 2012, Guizhou province established a UAV Engineering Research Center in cooperation with GAC. It appears to support research for both military and civilian UAV applications, and is a strong example of potential military-
+civilian integration in UAV R&D.
+
+
+
+Figure 5: CADI Yilong/Pterodactyl 1, also known as Wing Loong
+
+
+Yilong UAV at Airshow China in Zhuhai, China, November 2012. Source: David Cenciotti, "Inside the Pterodactyl UAS: sneak preview of China's Predator clone mobile ground control station," The Aviationist, November, 20, 2012.
+
+
+GAC is noted for the Xianglong/Soar Dragon, a high-altitude, long-endurance UAV that resembles the American RQ-4 Global Hawk UAV. Its chief missions include reconnaissance, surveillance, and battle damage assessment. The company displayed the Xianglong at Zhuhai in 2006, advertising its technical specifications and little else. Since then, aside from an unofficial report on its maiden test flight in November 2009, significant developments in the program, if any, have not been publicly disclosed.
+
+GAC, in conjunction with CADI, has also developed the high-altitude, long-endurance platform, the WZ-
+2000.36 This platform, designed largely for reconnaissance and surveillance, debuted at Airshow China in
+2000. Its operational status is unknown.37
+
+Shenyang Aircraft Company/Shenyang Aircraft Design Institute
+
+The Shenyang Aircraft Company (SAC), long known as the leading AVIC subsidiary in China's domestic fighter aircraft industry, has in recent years pursued UAV manufacturing as well. Just as the PLA Air Force has converted CAC J-7s to target drones, SAC-built J-5 and J-6 fighters have also been converted to target drones. It is unclear whether SAC itself was responsible for those modifications. SAC has thus far demonstrated a focus on advanced UCAVs, none of which has entered PLA service. By pursuing this specialty, SAC could be seeking to position itself in what is currently a market with minimal competition.
+
+The Lijian (Sharp Sword) UCAV has been linked to SAC's frequent design partner, the Shenyang Aircraft Design Institute (SADI, known also as the 601 Aircraft Design Institute) as well as Hongdu Aviation Industry Group. Official and semi-official Chinese press suggested the aircraft, similar in design to the American carrier-based X-47B, completed taxi tests in early May 2013. The Anjian (Dark Sword) UCAV model appears to be designed to evade radar detection. Information available at airshow displays has further touted it as a supersonic-capable platform with air-to-air weapons. The Zhanying (Warrior Eagle), designed for suppression of enemy air defenses, is another prominent SAC UCAV concept. SAC
+
+appears to be drawing from its existing resources and expertise in fighter planes and stealth technology development in its UAV projects.
+
+China Aerospace Science and Technology Corporation
+
+China Aerospace Science and Technology Corporation (CASC) develops and manufactures space launch and space flight vehicles. Its Eleventh Academy, also known as the China Academy of Aerospace Aerodynamics, leads CASC's UAV effort and is the probable developer of another high-profile Chinese UCAV prototype, the CH-3.43 At Airshow China in 2008, where the platform debuted, CASC displayed a full-scale model of the CH-3 with air-to-ground missiles and a sensor turret. According to a CASC brochure, the multipurpose aircraft is capable of battlefield reconnaissance, fire adjustment, data relay,
+intelligence collection, ground-strike missions, and electronic warfare missions.44
+
+
+
+Figure 7: CASC CH-4 UAV full-scale model
+
+
+
+A full-scale model of the CH-4 UAV at Airshow China in Zhuhai, China, November 2012. Source: Wendell Minnick, "China's Unmanned Aircraft Evolve from Figment to Reality," Defense News, November 26, 2012. http://www.defensenews.com/article/20121126/DEFREG03/311260001/Ch ina-8217-s-Unmanned-Aircraft-Evolve-from-Figment-Reality.
+
+CASC also generated attention at the 2012
+Airshow,  when  it  displayed  a  model of  its CH-4 MALE UCAV. The CH-4 has similar capabilities to the CH-3 but has been marketed as having the additional ability to operate  in  harsh  environments. Furthermore, its reported ability to carry missiles  and  satellite-guided  precision bombs  makes  it  a  potential  competitor  to the Yilong. Though possible export deals could lead to the steady production of either of these platforms, the current developmental status of the CH-3 and CH-4 is   unclear.   Other   known   CASC   projects include mini- and closer-range UAVs, though available information indicates that overall, CASC has not yet developed a UAV in PLA service.
+
+
+China Aerospace Science and Industry Corporation
+
+The China Aerospace Science and Industry Corporation (CASIC), a state-owned enterprise, specializes in a variety of conventional defense and aerospace systems, particularly missile and satellite systems. 
+CASIC's Third Academy, also known as the China Haiying Electro-Mechanical Technology Academy, has been  particularly  active  in  Chinese  UAV  development.  Although  the  Third  Academy  has  largely specialized in cruise missiles, particularly for the PLA Navy, some of the technical overlap between cruise missiles and UAVs has made the Third Academy an appropriate organization to further develop UAVs.48
+The most prominent Third Academy project is a jet-powered UCAV model known as the WJ-600. It first appeared as a prototype at the 2010 Airshow China, with extremely limited details about its capability and stage of development. Displayed with air-to-surface missiles and precision munitions, indicating the
+
+option to outfit it for combat missions, the WJ-600 reportedly is designed to be capable of medium- altitude surveillance combined with long-range targeting and poststrike assessment. The display at the 2012
+Airshow suggested further developments on the WJ-600, featuring payloads for electro- optical reconnaissance, search and rescue, electronic reconnaissance, and miniature missiles.49
+
+CASIC's November 2012 announcement of its launch of the "HIWING" brand encompassing its drone  products  and  services signaled an increased amount of resources devoted to UAV research
+and production at CASIC. According
+
+
+Figure 6: Full-scale display of CASIC WJ-600
+
+
+
+A full scale display of the WJ-600 at the 2010 Zhuhai Airshow, exhibited with potential armament. Source: Greg Waldron, "In Focus: Chinese UAVs uncovered," Flight Global, November 8, 2012. http://www.flightglobal.com/news/articles/in-focus-chinese-uavs- uncovered-378638/.
+
+to Xinhua, establishing the brand allowed greater extension into the development of small- to medium- sized, rotary-wing UAVs, though it is unclear how, if at all, the brand departs from China Haiying Electro- Mechanical Technology Academy.50 Although CASIC has not yet produced an operational UAV in PLA service, its projects in development suggest that it broadly focuses on smaller, shorter-range models.
+
+Nanjing Research Institute on Simulation Technique
+
+The Nanjing Research Institute on Simulation Technique, also known as the PLA General Staff Department's 60th Institute, is a key Chinese producer of tactical-level fixed-wing and rotary-wing UAVs. NRIST's key activities include developing training systems and simulators as well as developing UAVs and other airborne platforms.52 Although NRIST's self-reported customer base consists primarily of city-, provincial-, and national-level public security and police departments, NRIST's UAV business appears also to serve military needs by virtue of its affiliation with the PLA GSD.53
+
+NRIST has developed a series of unmanned rotorcraft known as the Z series, reportedly in PLA service since the early 2000s. The most recent model in this series appears to be the Z-5 rotary-wing UAV, unveiled to the public in September 2011. According to the People's Daily, the Z-5 is a military aircraft with  capabilities  for  adversary  signal  interference  and  area  surveillance,  with  additional  civilian
+applications for earthquake relief and land monitoring.54 NRIST's W series is also worth noting; these
+aircraft are generally short- and medium-range UAVs with real-time video transmission. NRIST began production of this series for the PLA in the mid-2000s and continues to develop its capabilities.
+
+NRIST has also displayed a variety of projects at airshows, such as the S-200 remote-controlled target drone envisioned in basic, naval, air force, and plateau variants, and the S-300 high-speed UAV.56 These appear to be less-developed prototypes but suggest NRIST's interest and potential in expanding its product line beyond smaller, tactical-level systems.
+
+Figure 7: PLA 60th Institute Exhibition Display at UAV Expo in Beijing, June 2012
+
+
+
+Display of the PLA 60th Institute at the China UAV Conference and Expo in Beijing, June 2012. "Wurenji zhanlanhui longzhong kaimu Ganshou wurenji fazhan pangbo qishi" (Ceremonious opening to UAV convention gives the impression of the majestic grandeur of Chinese  UAV  development),  Huanqiu  Wang  (Global  Times  Online),  June  5,  2012.  http://mil.huanqiu.com/photo_china/2012-
+06/2650920_10.html.
+
+Outlook
+
+China's increased interest and R&D efforts in UAVs are part of a worldwide trend of growth in the unmanned systems industry - both in the military and civilian sectors. Several developments could accelerate the growth of this industry in China:
+
+*	Although civilian unmanned systems are outside the scope of this paper, ongoing requirements from the civilian sector, particularly for public security, remote sensing, and maritime surveillance, could also spur developments in this technology on the military side, due to the dual-use nature of the technology. At present, the PLA controls a large majority of China's airspace; anticipated looser regulations on low-altitude airspace to keep up with the China's growing demand for civil aviation could lead to developments in the civil UAV sector.
+*	Another trend that will boost Chinese UAV employment in both the civil and military sectors is the growing number of satellites in China's Beidou constellation. The development of this series of  satellites, viewed  as  a Chinese  alternative to  U.S.  GPS,  allows China  to rely  on its  own satellites for UAV navigation and targeting.
+*	One Chinese analyst additionally points to the successful development of Chinese AEW systems as an indication of the maturity of similar support systems available for UAVs, including flight control  systems,  navigation  systems,  data  recycling  systems,  launch/recovery  systems,  and power supply systems.
+
+Currently, the majority of UAV production and development within China and worldwide centers on tactical-level platforms.  By one count, tactical-level systems comprise approximately 93 percent of known UAV projects in China; most of the remainder is devoted to strategic-level systems and UCAVs.
+Because of their applicability to a wide range of military missions, China will likely continue to focus on the development of tactical-level UAVs, particularly those that operate at low-to-medium altitude and have close-to-medium range.
+
+ASN's strong relationship with the PLA and the diversity and versatility of its existing and developmental UAVs suggest the company will probably retain the majority of China's UAV market share in the short term.  The  company's  signature  UAV  products,  the  ASN-206  and  its  successors,  appear  to  have established a foothold within the PLA, even meriting a showcase during the National Day Parade in 2009 celebrating the 60th  anniversary of the People's Republic of China (see Figure 8). Other university- based programs, particularly at BUAA, also show promise.
+
+In the long term, China's continued interest and progression in strategic-level UAVs appear poised to position China as a leader in the high-end UAV market. While firms such as SAC and CASIC are better known within China's UAV industry, they are relative newcomers and occupy a much smaller and more specialized  niche  within  the  field  -  namely  long-range  ISR  -  than  does  ASN.  Furthermore,  their specialties cater to the PLA's emerging operational requirements, particularly to monitor foreign military forces at longer ranges. However, limited public information on UAVs in development at China's defense industry and PLA-based R&D centers, as well as their long incubation periods, makes it difficult to assess the timeline for development and operational capability in the PLA.
+
+In addition to fulfilling domestic market demand from the PLA and other domestic customers, Chinese companies appear to be positioning themselves to become key suppliers of UAVs in the global market. The growing number of exhibitors and the sophistication of the equipment and technology displayed at Zhuhai in 2012 demonstrate China's interest in marketing to other countries. Defense industry experts forecast growth potential and increased competition in the unmanned systems sector internationally, as flagging defense budgets push manufacturers to market their products abroad. Chinese UAVs are likely to be attractive to developing countries in Asia, Africa, and the Middle East, particularly given their price points. At the 2012 Airshow China in Zhuhai, a CASC official explained that many Asian and African countries were "quite interested in the intermediate and short-range UAVs because they are portable and low-cost."  Thus far, press reports of sales to the United Arab Emirates and Uzbekistan have not
+been confirmed.
+
+
+Figure 8: ASN-207s on Parade
+
+
+
+ASN-207s on parade during the 60th  anniversary celebration of the People's Republic of China in Beijing. The first four UAVs are ASN-207s; the last six are likely ASN-215s. Source: China Ministry of Defense, "UAV Formation," October  1,  2009.  http://eng.mod.gov.cn/SpecialReports/2009-10/01/content_4092545.htm;  Dennis  Blasko,  The Chinese Army Today (New York: Routledge, 2012) p. 167.
+
+Additionally, major Chinese defense firms do not face the same export restrictions as do the top UAV- exporting countries. The United States and Israel, the top two UAV exporters worldwide and the only two countries confirmed to have exported strategic-level UAVs, are members of the two principal multilateral regimes that address UAV exports - the Missile Technology Control Regime (MTCR) and the Wassenaar Arrangement.  China is not a member of either, though "keeps contact and exchanges" with these regimes.  In the absence of competition from more sophisticated U.S. or Israeli alternatives, China could become a key proliferator to non-members of the MTCR or Wassenaar.
+
+In the words of a 2012 U.S. Defense Study Board report, China could "easily match or outpace U.S.
+spending on unmanned systems, rapidly close the technology gaps and become a formidable global competitor  in  unmanned  systems." Nevertheless,  China's  success  in  exporting  UAVs  will  largely depend on market perception of the quality of its systems, which are unproven in comparison to their U.S. and Israeli alternatives. As the CASC official stated at Zhuhai, "There are many similar products in the global market and they are quite mature, so we haven't had a big impact in the market. It will take
+some time for our products to be known and accepted."
