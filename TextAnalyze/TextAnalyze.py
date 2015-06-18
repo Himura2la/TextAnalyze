@@ -12,7 +12,7 @@ def POSe(sent):
 if __name__ == '__main__':
     print("Reading started")
 
-    with open("..\\China_39_s_Military_UAV_Industry_14_June_2013.txt", "r") as f:
+    with open("..\\sents_only.txt", "r") as f:
         raw = f.read()
     
     print("Raw symbols: %d" % len(raw))
@@ -20,6 +20,8 @@ if __name__ == '__main__':
     #tokens = word_tokenize(raw)
     #text = nltk.Text(tokens)
     sents = sent_tokenize(raw)#[80:90]
+    np.save("..\\sents.npy", np.array(sents))
+    exit()
 
     print("Sentencies: %d" % len(sents))
 
@@ -30,6 +32,12 @@ if __name__ == '__main__':
     print("Map size: %d" % len(map))
 
     POSed = [i for i in itertools.chain.from_iterable(map)] # Connect sentensies
+
+    with open("..\\PurePOS.txt", 'w') as f:
+        for w, POS in POSed:
+            f.write("\"" + POS + "\", ")
+    exit()
+
     POSed = sorted([(w.lower(), p) for w, p in POSed])      # To Lower
     
     print("Lemmatization...")
