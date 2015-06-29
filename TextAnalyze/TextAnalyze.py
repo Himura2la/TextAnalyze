@@ -12,7 +12,7 @@ def POSe(sent):
 if __name__ == '__main__':
     print("Reading started")
 
-    with open("..\\sents_only.txt", "r") as f:
+    with open("..\\matv_spoofing_detection.txt", "r") as f:
         raw = f.read()
     
     print("Raw symbols: %d" % len(raw))
@@ -21,11 +21,10 @@ if __name__ == '__main__':
     #text = nltk.Text(tokens)
     sents = sent_tokenize(raw)#[80:90]
     np.save("..\\sents.npy", np.array(sents))
-    exit()
 
     print("Sentencies: %d" % len(sents))
 
-    pool = Pool(8)
+    pool = Pool(4)
     print("Pool processing started!")
     map = pool.map(POSe, sents)
 
@@ -36,7 +35,6 @@ if __name__ == '__main__':
     with open("..\\PurePOS.txt", 'w') as f:
         for w, POS in POSed:
             f.write("\"" + POS + "\", ")
-    exit()
 
     POSed = sorted([(w.lower(), p) for w, p in POSed])      # To Lower
     

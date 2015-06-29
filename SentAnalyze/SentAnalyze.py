@@ -19,5 +19,6 @@ for sent in sents:
                     if ch[0] > complexity[i]:
                         complexity[i] = ch[0]
             except: pass
-    sys.stdout.write("%d, " % complexity[i])
+    sys.stdout.write("\n\n[%d]\n" % complexity[i])
+    print(sent)
     i+=1
